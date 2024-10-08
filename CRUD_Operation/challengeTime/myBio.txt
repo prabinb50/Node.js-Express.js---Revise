@@ -1,0 +1,5 @@
+Name: Prabin Joshi
+Age: 21
+Sex: Male
+Nationality: Nepali
+Address: Dhangadhi
