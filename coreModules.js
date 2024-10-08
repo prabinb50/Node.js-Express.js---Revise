@@ -27,7 +27,5 @@ const bufferData = fs.readFileSync("read.text");
 orginalData = bufferData.toString();
 console.log(orginalData);
 
-// UPDATE
-
-
-// DELETE
+// renaming the file name 
+fs.renameSync("read.text", "readWrite.txt");
