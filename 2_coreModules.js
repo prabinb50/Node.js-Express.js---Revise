@@ -32,3 +32,5 @@ console.log(orginalData);
 
 // renaming the file name 
 fs.renameSync("read.text", "readWrite.txt");
+
+fs.renameSync("coreModules.js", "2_coreModules.js");

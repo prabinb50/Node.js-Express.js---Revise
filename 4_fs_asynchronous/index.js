@@ -29,3 +29,5 @@ fs.appendFile("read.txt", data, (err)=>{
 fs.readFile("read.txt", "utf8", (err, response)=>{
     console.log(response);
 });
+
+
