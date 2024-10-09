@@ -1,0 +1,6 @@
+1st Semester: 3.6 gpa
+2nd Semester: 3.7 gpa
+3rd Semester: 3.2 gpa
+4th Semester: 3.6 gpa
+5th Semester: 3.7 gpa
+6th Semester: 3.2 gpa
