@@ -13,3 +13,6 @@ fs.readFile("read.txt", "utf8", (err, response)=>{
 });
 console.log("after the data using asynchronous");
 
+// Note: always prefer asychronous rather than synchronous
+
+
